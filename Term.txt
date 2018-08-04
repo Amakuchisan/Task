@@ -1,0 +1,10 @@
+用語の説明
+1. add
+
+2. commit
+
+3. push
+
+4. pull
+
+5. clone

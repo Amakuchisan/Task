@@ -1,15 +1,29 @@
 用語の説明
 1. add
-ワーキングディレクトリからステージングエリアへコンテンツを追加すること
+ワーキングディレクトリからステージングエリアへコンテンツを追加すること[1][2]
 2. commit
-ステージングエリアにあるファイルをリポジトリに格納すること
-commitする際、変更内容を説明するコミットメッセージを添える
-commitしたオブジェクトには、ステージしたスナップショットへのポインタや作者・メッセージのメタデータ、そしてそのcommitの直接の親となるcommitへのポインタが含まれている
+ステージングエリアにあるファイルをリポジトリに格納すること[2]
+commitする際、変更内容を説明するコミットメッセージを添える[3][4][5]
+commitしたオブジェクトには、ステージしたスナップショットへのポインタや作者・メッセージのメタデータ、そしてそのcommitの直接の親となるcommitへのポインタが含まれている[6]
 3. push
-ローカルリポジトリの変更をリモートリポジトリへ追加すること
+ローカルリポジトリの変更をリモートリポジトリへ追加すること[5][7]
 4. pull
-リモートリポジトリからオブジェクトとリファレンスをローカルリポジトリへダウンロードし、変更を現在のブランチに組み込むこと
-pullはfetchとmergeが組み合わさっている
+リモートリポジトリからオブジェクトとリファレンスをローカルリポジトリへダウンロードし、変更を現在のブランチに組み込むこと[5][8][9]
+pullはfetchとmergeが組み合わさっている[10]
 5. clone
-サーバーサイドのフック等の一部の情報を除いた、サーバーが保持しているデータをほぼすべてコピーし取得すること
+サーバーサイドのフック等の一部の情報を除いた、サーバーが保持しているデータをほぼすべてコピーし取得すること[11][12]
 既存のGitリポジトリのコピーを取得したい場合に使う
+
+参考資料
+[1],git Documentation Reference,https://git-scm.com/docs/git-add
+[2],Pro Git 2nd ed. Edition,https://git-scm.com/book/ja/v2/Appendix-C%3A-Gitのコマンド-基本的なスナップショット
+[3],git Documentation Reference,https://git-scm.com/docs/git-commit
+[4],Git for Windows,https://github.com/git-for-windows/git/wiki/Good-commits
+[5],Sourcetree Support,https://confluence.atlassian.com/sourcetreekb/commit-push-and-pull-a-repository-on-sourcetree-785616067.html
+[6],Pro Git 2nd ed. Edition,https://git-scm.com/book/ja/v2/Git-のブランチ機能-ブランチとは
+[7],git Documentation Reference,https://git-scm.com/docs/git-push
+[8],git Documentation Reference,https://git-scm.com/docs/git-fetch
+[9],git Documentation Reference,https://git-scm.com/docs/git-merge
+[10],git Documentation Reference,https://git-scm.com/docs/git-pull
+[11],git Documentation Reference,https://git-scm.com/docs/git-clone
+[12],Pro Git 2nd ed. Edition,https://git-scm.com/book/ja/v1/Git-の基本-Git-リポジトリの取得

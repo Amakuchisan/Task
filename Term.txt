@@ -13,6 +13,15 @@ pullはfetchとmergeが組み合わさっている[10]
 5. clone
 サーバーサイドのフック等の一部の情報を除いた、サーバーが保持しているデータをほぼすべてコピーし取得すること[11][12]
 既存のGitリポジトリのコピーを取得したい場合に使う
+6. Branch
+7. Merge
+8. checkout
+9. conflict
+10. Git
+11. GitHub
+12. Repository
+13. localRepositoryとremoteRepositoryの違い
+14. バージョン管理システム
 
 参考資料
 [1],git Documentation Reference,https://git-scm.com/docs/git-add

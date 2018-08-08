@@ -46,15 +46,20 @@ GitHub上にソースコードをホスティングすることで他の開発�
 クライアントはファイルの最新スナップショットだけではなく、リポジトリ全体をミラーリングするため、サーバーが故障したとしても、クライアント・リポジトリの一つをサーバーにコピーすることで修復できる[16][17]
 
 参考資料
-[1],git Documentation Reference,https://git-scm.com/docs/git-add
-[2],Pro Git 2nd ed. Edition,https://git-scm.com/book/ja/v2/Appendix-C%3A-Gitのコマンド-基本的なスナップショット
-[3],git Documentation Reference,https://git-scm.com/docs/git-commit
-[4],Git for Windows,https://github.com/git-for-windows/git/wiki/Good-commits
-[5],Sourcetree Support,https://confluence.atlassian.com/sourcetreekb/commit-push-and-pull-a-repository-on-sourcetree-785616067.html
-[6],Pro Git 2nd ed. Edition,https://git-scm.com/book/ja/v2/Git-のブランチ機能-ブランチとは
-[7],git Documentation Reference,https://git-scm.com/docs/git-push
-[8],git Documentation Reference,https://git-scm.com/docs/git-fetch
-[9],git Documentation Reference,https://git-scm.com/docs/git-merge
-[10],git Documentation Reference,https://git-scm.com/docs/git-pull
-[11],git Documentation Reference,https://git-scm.com/docs/git-clone
-[12],Pro Git 2nd ed. Edition,https://git-scm.com/book/ja/v1/Git-の基本-Git-リポジトリの取得
+[1], git Documentation Reference, https://git-scm.com/docs/git-add
+[2], Pro Git 2nd ed. Edition, https://git-scm.com/book/ja/v2/Appendix-C%3A-Gitのコマンド-基本的なスナップショット
+[3], git Documentation Reference, https://git-scm.com/docs/git-commit
+[4], Git for Windows, https://github.com/git-for-windows/git/wiki/Good-commits
+[5], Sourcetree Support, https://confluence.atlassian.com/sourcetreekb/commit-push-and-pull-a-repository-on-sourcetree-785616067.html
+[6], Pro Git 2nd ed. Edition, https://git-scm.com/book/ja/v2/Git-のブランチ機能-ブランチとは
+[7], git Documentation Reference, https://git-scm.com/docs/git-push
+[8], git Documentation Reference, https://git-scm.com/docs/git-fetch
+[9], git Documentation Reference, https://git-scm.com/docs/git-merge
+[10], git Documentation Reference, https://git-scm.com/docs/git-pull
+[11], git Documentation Reference, https://git-scm.com/docs/git-clone
+[12], Pro Git 2nd ed. Edition, https://git-scm.com/book/ja/v1/Git-の基本-Git-リポジトリの取得
+[13], Pro Git 2nd ed. Edition, https://git-scm.com/book/ja/v2/Appendix-C%3A-Gitのコマンド-ブランチとマージ
+[14], Pro Git 2nd ed. Edition, https://git-scm.com/book/ja/v2/Git-のブランチ機能-ブランチとマージの基本
+[15], Pro Git 2nd ed. Edition, https://git-scm.com/book/ja/v2/Git-の基本-リモートでの作業
+[16], 入門git, Travis Swicegood著/ でびあんぐる監訳
+[17], Pro Git 2nd ed. Edition, https://git-scm.com/book/ja/v1/使い始める-バージョン管理に関して
